@@ -1,4 +1,4 @@
-# NBA Analytics: Player Performance, Era Comparison & MVP Modeling
+# NBA Analytics: Player Performance, Era Comparison & MVP Modeling (1996-2022)
 
 ## Overview
 This project analyzes NBA player performance from 1996–2022 to move beyond subjective basketball debates and ground evaluation in data. Using over **12,000 player-season records across 27 NBA seasons**, the analysis explores how scoring, rebounding, playmaking, efficiency, and team context shape elite performance. It also applies a transparent, weighted performance index to identify MVP-caliber seasons and construct a data-driven all-time starting lineup.
