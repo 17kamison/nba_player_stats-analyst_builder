@@ -5,6 +5,14 @@ This project analyzes NBA player performance from 1996–2022 to move beyond sub
 
 ---
 
+## Objectives 
+  1. Identify season leaders in scoring, rebounding, and playmaking and evaluate their efficiency.
+  2. Compare player size, style, and performance across four eras: 1990s, 2000s, 2010s, and 2020s.
+  3. Determine which teams, positions, or player profiles consistently produce top performers.
+  4. Use a weighted performance index to crown MVPs and compare them to official NBA selections.
+
+---
+
 ## Methodology
 - Veteran defined as 4th+ season
 - Height-based position mapping: PG ≤188 cm, SG 189–196 cm, SF 197–203 cm, PF 204–210 cm, C ≥211 cm
